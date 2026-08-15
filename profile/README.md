@@ -13,7 +13,7 @@ curated, rated, and ready to run.
 
 Every **★ Verified** entry pins its tool versions and passes `validate` + `dry-run` in CI.
 
-**23 workflows · 732 rules** (2026-08-15) — and growing.
+**24 workflows · 749 rules** (2026-08-15) — and growing.
 
 ## Contribute
 
