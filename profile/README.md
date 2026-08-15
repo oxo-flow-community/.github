@@ -1,18 +1,24 @@
 # oxo-flow-community
 
-The community catalog of [oxo-flow](https://github.com/Traitome/oxo-flow) workflows —
-faithful ports of the most-used **nf-core** and **Snakemake** pipelines.
+The **community catalog** of [oxo-flow](https://github.com/Traitome/oxo-flow) workflows —
+curated, rated, and ready to run.
 
 [**Browse the catalog →**](https://oxo-flow-community.github.io/)
 
-**20 workflows · 653 rules · all pinned to upstream tool versions** — created 2026-08-15.
+- **⇄ Official ports** — verified migrations of the pipelines the field already trusts
+  (nf-core, Snakemake): same tools, same versions, same commands, per-rule fidelity tables.
+- **✦ Original workflows** — designed for oxo-flow from the start.
+- **♺ Community listings** — any public repository can join the catalog via pull request;
+  the catalog links to it, nothing moves.
 
-Every repository documents its source pipeline, pinned version, port date, license,
-and a per-rule fidelity table. All workflows are green on `validate` + `dry-run` in CI.
+Every **★ Verified** entry pins its tool versions and passes `validate` + `dry-run` in CI.
+
+**20 workflows · 653 rules** (2026-08-15) — and growing.
 
 ## Contribute
 
-Want workflow #21? Follow the [porting guide](https://oxo-flow-community.github.io/about/porting/)
-and open a repository under this org with the standard layout.
+- [Porting guide](https://oxo-flow-community.github.io/about/porting/) — migrate a Nextflow/Snakemake pipeline
+- [Curation & ratings](https://oxo-flow-community.github.io/about/curation/) — classification, rating criteria, submission
+- [Contributing](https://oxo-flow-community.github.io/about/contributing/) — repo layout and listing process
 
 © 2026 oxo-flow-community · Apache-2.0
