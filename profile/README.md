@@ -11,9 +11,17 @@ curated, rated, and ready to run.
 - **♺ Community listings** — any public repository can join the catalog via pull request;
   the catalog links to it, nothing moves.
 
-Every **★ Verified** entry pins its tool versions and passes `validate` + `dry-run` in CI.
+Ratings are evidence-based:
 
-**24 workflows · 749 rules** (2026-08-15) — and growing.
+- **✔ Live-tested** — the workflow was run end-to-end on a reference server with
+  minimal real or synthetic data: every rule completed, exit 0, report snapshot written.
+- **★ Verified** — fidelity-reviewed migration, pins tool versions, passes
+  `validate` + `dry-run` in CI.
+- **☆ Community** — listed via pull request, not yet reviewed.
+
+See the [live-testing practice](https://oxo-flow-community.github.io/about/live-testing/) for the methodology.
+
+**24 workflows · 749 rules · 21 live-tested** (2026-08-20) — and growing.
 
 ## Contribute
 
