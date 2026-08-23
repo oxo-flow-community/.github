@@ -21,7 +21,7 @@ Ratings are evidence-based:
 
 See the [live-testing practice](https://oxo-flow-community.github.io/about/live-testing/) for the methodology.
 
-**24 workflows · 749 rules · 21 live-tested** (2026-08-20) — and growing.
+**24 workflows · 757 rules · 24 live-tested** (2026-08-24)
 
 ## Contribute
 
