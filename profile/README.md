@@ -5,22 +5,6 @@ curated, rated, and ready to run.
 
 [**Browse the catalog →**](https://oxo-flow-community.github.io/)
 
-- **⇄ Official ports** — verified migrations of the pipelines the field already trusts
-  (nf-core, Snakemake): same tools, same versions, same commands, per-rule fidelity tables.
-- **✦ Original workflows** — designed for oxo-flow from the start.
-- **♺ Community listings** — any public repository can join the catalog via pull request;
-  the catalog links to it, nothing moves.
-
-Ratings are evidence-based:
-
-- **✔ Live-tested** — the workflow was run end-to-end on a reference server with
-  minimal real or synthetic data: every rule completed, exit 0, report snapshot written.
-- **★ Verified** — fidelity-reviewed migration, pins tool versions, passes
-  `validate` + `dry-run` in CI.
-- **☆ Community** — listed via pull request, not yet reviewed.
-
-See the [live-testing practice](https://oxo-flow-community.github.io/about/live-testing/) for the methodology.
-
 ## Contribute
 
 - [Porting guide](https://oxo-flow-community.github.io/about/porting/) — migrate a Nextflow/Snakemake pipeline
